@@ -1,0 +1,13 @@
+1 + 2 = 3 (Correct)
+5 + 3 = 8 (Correct)
+10 - 4 = 6 (Correct)
+8 + 7 = 15 (Correct)
+12 - 6 = 6 (Correct)
+10 - 1 = 9 (Correct)
+11 - 3 = 1 (Incorrect, Correct Answer: 8)
+13 - 3 = 12 (Incorrect, Correct Answer: 10)
+14 - 4 = 10 (Correct)
+15 + 5 = 20 (Correct)
+Total Correct: 8
+Total Incorrect: 2
+Total Points: 8
